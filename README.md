@@ -1,41 +1,57 @@
-# 👋 Hi there, I'm Mehdi Akoudad
+# 👋 Hi, I'm **Mehdi Akoudad**  
 
 🎯 **Data Analyst | Power BI Developer | Python Enthusiast**  
-📍 Based in Palm Beach, Florida | 🌍 Moroccan | 🎓 B.S. in Data Analytics (2024)
+📍 Palm Beach, Florida | 🌍 Moroccan | 🎓 **B.S. in Data Analytics (2024)**  
+
+![Profile Views](https://komarev.com/ghpvc/?username=mehdiakoudad&label=Profile%20Views&color=0e75b6&style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-akoudadd/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehdiakoudad)  
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@akoudadmehdi01)  
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me  
 
-I'm a data-driven problem solver passionate about turning raw data into meaningful insights. With hands-on experience in financial modeling, KPI tracking, and predictive analytics, I’ve built end-to-end projects across healthcare, education, banking, and operations.
+I’m a **results-driven Data Analyst** passionate about turning raw datasets into **actionable insights**.  
+I combine **technical skills** with **business understanding** to support decision-making in industries like **healthcare, retail, banking, and education**.  
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Skills & Technologies  
 
 - **Languages:** Python, SQL, DAX, R  
 - **Analytics Tools:** Power BI, Excel, Jupyter Notebook  
-- **Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
-- **Other:** Git, Tableau, SAP HANA, Logistic Regression, Clustering, DCF/NPV Modeling
+- **Python Libraries:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- **Other Expertise:** Git, Tableau, SAP HANA, Logistic Regression, Clustering, DCF/NPV Modeling  
 
 ---
 
-## 📈 Featured Projects
+## 📌 Featured Projects  
 
-- [🔬 Multiclass Health Test Prediction](https://www.kaggle.com/code/mehdiakoudadd/multiclass-health-prediction-model)  
-  End-to-end ML pipeline on 55K+ synthetic patient records to classify medical test outcomes.
+- **[📊 Supermarket Transaction Analysis](https://github.com/mehdiakoudad/portofolio)**  
+  SQL & Python retail analytics with **data storytelling** on consumer behavior, peak sales trends, and operational efficiency.  
+  📄 [Read the full article on Medium](https://medium.com/@akoudadmehdi01/inside-the-checkout-what-a-year-of-supermarket-transactions-really-tells-us-ec1dfb653bff)  
 
-- [📱 Student Social Media Addiction Analysis](https://www.kaggle.com/code/mehdiakoudadd/social-media-clustering-prediction-2)  
-  K-Means clustering and logistic regression to predict academic impact from social media usage.
+- **[🔬 Multiclass Health Test Prediction](https://www.kaggle.com/code/mehdiakoudadd/multiclass-health-prediction-model)**  
+  End-to-end ML pipeline analyzing 55K+ patient records to classify medical test outcomes.  
+
+- **[📱 Student Social Media Addiction Analysis](https://www.kaggle.com/code/mehdiakoudadd/social-media-clustering-prediction-2)**  
+  Applied clustering & logistic regression to study academic impacts from social media usage.  
 
 ---
 
-## 📬 Let's Connect
+## 📊 GitHub Stats  
 
-- [LinkedIn](https://www.linkedin.com/in/mehdi-akoudadd/)  
-- [Kaggle](https://www.kaggle.com/mehdiakoudad)  
-- Email: akoudadmehdi01@gmail.com  
+![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdiakoudad&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdiakoudad&layout=compact&theme=tokyonight)  
 
+---
+
+## 📬 Let's Connect  
+
+- **LinkedIn:** [linkedin.com/in/mehdi-akoudadd](https://www.linkedin.com/in/mehdi-akoudadd/)  
+- **Kaggle:** [kaggle.com/mehdiakoudad](https://www.kaggle.com/mehdiakoudad)  
+- **Email:** akoudadmehdi01@gmail.com  
 ---
 
 _“Let data tell the story — I'm here to listen, analyze, and act.”_
