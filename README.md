@@ -3,11 +3,6 @@
 🎯 **Data Analyst | Power BI Developer | Python Enthusiast**  
 📍 Palm Beach, Florida | 🌍 Moroccan | 🎓 **B.S. in Data Analytics (2024)**  
 
-![Profile Views](https://komarev.com/ghpvc/?username=mehdiakoudad&label=Profile%20Views&color=0e75b6&style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehdi-akoudadd/)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/mehdiakoudad)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@akoudadmehdi01)  
-
 ---
 
 ## 🚀 About Me  
@@ -37,13 +32,6 @@ I combine **technical skills** with **business understanding** to support decisi
 
 - **[📱 Student Social Media Addiction Analysis](https://www.kaggle.com/code/mehdiakoudadd/social-media-clustering-prediction-2)**  
   Applied clustering & logistic regression to study academic impacts from social media usage.  
-
----
-
-## 📊 GitHub Stats  
-
-![Mehdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdiakoudad&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdiakoudad&layout=compact&theme=tokyonight)  
 
 ---
 
