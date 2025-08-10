@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Morocco Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-oEOL9SFa88cTqvEo69gTNJjXMtykoxh6ghnCMwEFwDA=" crossorigin=""/>
+  <style>
+    #map {
+      width: 600px;
+      height: 600px;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="map"></div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-pDZMCMx07JT8th0PusS9n1FIKKq6JPDgc5ZPRXqLI20=" crossorigin=""></script>
+  <script>
+    const map = L.map('map', {
+      center: [31.7917, -7.0926],
+      zoom: 5,
+      maxBounds: [[35.92, -13.17], [28.00, -0.98]]
+    });
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    fetch('https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson')
+      .then(res => res.json())
+      .then(data => {
+        const morocco = data.features.find(f => f.properties.ADMIN === 'Morocco');
+        L.geoJSON(morocco, {
+          style: {
+            color: '#ff7800',
+            weight: 2,
+            fillOpacity: 0.1
+          }
+        }).addTo(map);
+        map.fitBounds([[27.5, -13.5], [36.0, -0.5]]);
+      });
+  </script>
+</body>
+</html>
