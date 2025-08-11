@@ -27,10 +27,10 @@ I combine **technical skills** with **business understanding** to support decisi
   SQL & Python retail analytics with **data storytelling** on consumer behavior, peak sales trends, and operational efficiency.  
   📄 [Read the full article on Medium](https://medium.com/@akoudadmehdi01/inside-the-checkout-what-a-year-of-supermarket-transactions-really-tells-us-ec1dfb653bff)  
 
-- **[🔬 Multiclass Health Test Prediction](https://www.kaggle.com/code/mehdiakoudadd/multiclass-health-prediction-model)**  
+- **[🔬 Multiclass Health Test Prediction](https://github.com/mehdiakoudad/portofolio)**  
   End-to-end ML pipeline analyzing 55K+ patient records to classify medical test outcomes.  
 
-- **[📱 Student Social Media Addiction Analysis](https://www.kaggle.com/code/mehdiakoudadd/social-media-clustering-prediction-2)**  
+- **[📱 Student Social Media Addiction Analysis](https://github.com/mehdiakoudad/portofolio)**  
   Applied clustering & logistic regression to study academic impacts from social media usage.  
 
 ---
