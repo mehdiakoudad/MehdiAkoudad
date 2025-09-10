@@ -7,8 +7,7 @@
 
 ## 🚀 About Me  
 
-I’m a **results-driven Data Analyst** passionate about turning raw datasets into **actionable insights**.  
-I combine **technical skills** with **business understanding** to support decision-making in industries like **healthcare, retail, banking, and education**.  
+I’m a Data Analyst who thrives on turning raw data into meaningful stories that drive real change. My journey combines the discipline of a former athlete with the curiosity of an analyst — I don’t just analyze numbers, I search for patterns that reveal opportunities. Having worked across healthcare, retail, banking, and education, I’ve learned that the true power of data lies in connecting insights to people. For me, data is more than charts and models; it’s a tool to solve problems, shape decisions, and create impact that lasts.  
 
 ---
 
