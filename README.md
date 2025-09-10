@@ -28,7 +28,7 @@ I’m a Data Analyst who thrives on turning raw data into meaningful stories tha
 
 - **[🔬 Multiclass Health Test Prediction](https://github.com/mehdiakoudad/portofolio)**  
   End-to-end ML pipeline analyzing 55K+ patient records to classify medical test outcomes.
-   📄 [Read the full article on Medium](https://medium.com/@akoudadmehdi01/multiclass-health-test-prediction-with-machine-learning-3a1d92faf994)   
+  📄 [Read the full article on Medium](https://medium.com/@akoudadmehdi01/multiclass-health-test-prediction-with-machine-learning-3a1d92faf994)   
 
 - **[📱 Student Social Media Addiction Analysis](https://github.com/mehdiakoudad/portofolio)**  
   Applied clustering & logistic regression to study academic impacts from social media usage.
